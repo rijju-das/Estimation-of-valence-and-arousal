@@ -1,0 +1,2 @@
+Loss,Valence loss,Arousal loss,Emotion loss,Valence mae,Arousal mae,Emotion accuracy,Valence CCC,Arousal CCC
+2.9009,0.3858,0.1961,2.319,0.5162,-0.0,0.384,0.0,0.215
