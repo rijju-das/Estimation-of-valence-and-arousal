@@ -1,21 +1,24 @@
-# AdMoteNet: Adaptive Network for Emotion Understanding in Visual Content  
+# Integrated Approach for Simultaneous Estimation of Emotional States and Valence-Arousal Levels in Facial Images
 **This repo contains the code & experiments for continuous Valence–Arousal estimation.**
 
 
 ## 📌 Paper
 
-**Title:** AdMoteNet: Adaptive Network for Emotion Understanding in Visual Content 
-**Authors:** Riju Das, Sukriti Dhang, Mimi Zhang, Soumyabrata Dev   
-**Venue:** Irish Machine Vision and Image Processing Conference (**IMVIP 2025**) 
-**Proceedings DOI:** 10.21251/8043511f-bf93-4b36-9348-0726af0987f6 
+**Title:** Integrated Approach for Simultaneous Estimation of Emotional States and Valence-Arousal Levels in Facial Images
+**Authors:** Riju Das, Sukriti Dhang, Soumyabrata Dev   
+**Venue:** Irish Machine Vision and Image Processing Conference (**IMVIP 2024**) 
+
 
 
 ### BibTeX
 ```bibtex
-@inproceedings{das2025admotenet,
-  title     = {AdMoteNet: Adaptive Network for Emotion Understanding in Visual Content},
-  author    = {Das, Riju and Dhang, Sukriti and Zhang, Mimi and Dev, Soumyabrata},
-  booktitle = {Proceedings of the Irish Machine Vision and Image Processing Conference (IMVIP)},
-  year      = {2025},
-  doi       = {10.21251/8043511f-bf93-4b36-9348-0726af0987f6}
+@inproceedings{das2024integrated,
+  title={Integrated approach for simultaneous estimation of emotional states and valence-arousal levels in facial images},
+  author={Das, Riju and Dhang, Sukriti and Dev, Soumyabrata},
+  booktitle={IET Conference Proceedings CP887},
+  volume={2024},
+  number={10},
+  pages={258--265},
+  year={2024},
+  organization={IET}
 }
